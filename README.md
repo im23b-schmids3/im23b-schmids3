@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Sandro, and I'm a 17-year-old student at a vocational IT school in Switzerland CH
+My name is Sandro, and I'm an 18-year-old student at a vocational IT school in Switzerland CH
 
 ## Languages and Frameworks I've used
 
