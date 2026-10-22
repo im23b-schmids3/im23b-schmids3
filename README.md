@@ -2,6 +2,8 @@
 
 My name is Sandro, and I'm an 19-year-old student at a vocational IT school in Switzerland CH
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=im23b-schmids3&show_icons=true)
+
 ## Languages and Frameworks I've used
 
 <div style="text-align: left;">
